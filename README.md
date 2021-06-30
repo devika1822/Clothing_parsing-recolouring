@@ -28,12 +28,6 @@ python simple_extractor.py --dataset 'atr' --model-restore [CHECKPOINT_PATH] --i
 ```
 
 
-## Training
-
-```
-python train.py
-```
-By default, the trained model will be saved in `./log` directory. Please read the arguments for more details.
 
 ## Evaluation
 ```
