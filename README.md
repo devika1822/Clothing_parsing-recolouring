@@ -52,12 +52,12 @@ latex
 
 * Input Image
 
-![demo](./demo/inputimage.jpg)
+![demo](./demo/inputimage.png)
 
 * Parsing Result
 
-![demo-atr](./demo/parsed_output.jpg)
+![demo-atr](./demo/parsed_output.png)
 
 * Recoloured Output
 
-![demo-atr](./demo/recoloured_output.jpg)
+![demo-atr](./demo/recoloured_output.png)
