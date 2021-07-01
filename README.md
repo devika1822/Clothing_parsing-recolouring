@@ -52,8 +52,12 @@ latex
 
 * Input Image
 
-![demo](./demo/M13.jpg)
+![demo](./demo/inputimage.jpg)
 
 * Parsing Result
 
-![demo-atr](./demo/parsing.jpg)
+![demo-atr](./demo/parsed_output.jpg)
+
+* Recoloured Output
+
+![demo-atr](./demo/recoloured_output.jpg)
