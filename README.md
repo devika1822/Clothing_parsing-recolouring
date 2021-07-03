@@ -54,7 +54,7 @@ latex
 
 ![demo](./demo/inputimage.png)
 
-* Parsing Result
+* Result after parsing
 
 ![demo-atr](./demo/parsed_output.png)
 
