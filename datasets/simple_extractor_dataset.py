@@ -1,15 +1,4 @@
-#!/usr/bin/env python
-# -*- encoding: utf-8 -*-
 
-"""
-@Author  :   Peike Li
-@Contact :   peike.li@yahoo.com
-@File    :   dataset.py
-@Time    :   8/30/19 9:12 PM
-@Desc    :   Dataset Definition
-@License :   This source code is licensed under the license found in the
-             LICENSE file in the root directory of this source tree.
-"""
 
 import os
 import cv2
